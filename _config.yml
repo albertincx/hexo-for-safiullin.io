@@ -9,7 +9,7 @@ timezone: UTC
 url: https://safiullin.io
 root: /
 permalink: /:year/:month/:day/:title/
-archive_dir: archive
+archive_dir: archives
 code_dir: downloads/code
 new_post_name: :title.md # File name of new posts
 post_asset_folder: true
