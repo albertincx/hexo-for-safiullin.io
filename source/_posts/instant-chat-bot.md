@@ -1,7 +1,7 @@
 ---
 title: InstantChatBot
 date: 2021-06-20 11:18:57
-tags:
+tags: telegram-bot, bot, reading
 ---
 
 [https://safiullin.com/projects/instant-chat-bot-for-website.html](https://safiullin.com/projects/instant-chat-bot-for-website.html)

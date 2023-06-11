@@ -76,6 +76,7 @@ time_format: HH:mm:ss
 updated_option: 'mtime'
 
 pagination_dir: page
+disqus_shortname: 'safiullin-io'
 
 ignore:
 deploy:

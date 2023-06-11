@@ -1,6 +1,6 @@
 title: How to get rid of traffic jams? Another solution
 date: 2021-12-27 06:45:50
-tags:
+tags: bot, routes, location
 ---
 ##### Like Elon Musk, I hate traffic jams.
 
