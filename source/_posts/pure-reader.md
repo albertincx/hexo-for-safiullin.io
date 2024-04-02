@@ -1,7 +1,7 @@
 ---
 title: Pure reader (epub)
 date: 2021-06-20 11:18:55
-tags: reading, web app
+tags: [reading, web app]
 ---
 
 [Here is the webApp](https://read.safiullin.io)

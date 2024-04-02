@@ -1,7 +1,7 @@
 title: How I made a puzzle game
 author: Albert Safiullin
 date: 2021-12-27 07:39:54
-tags: games, web app
+tags: [games, web app]
 ---
 
 ##### How I made a puzzle game

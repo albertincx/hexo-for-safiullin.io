@@ -1,7 +1,7 @@
 ---
 title: How to make any site mobile?
 date: 2023-06-11 11:33:02
-tags: mobile, bot, viewport, browser extension
+tags: [mobile, bot, viewport, browser extension]
 ---
 
 ## The problem

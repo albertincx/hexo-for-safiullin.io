@@ -1,7 +1,7 @@
 ---
 title: How to Reduce Traffic Congestion
 date: 2023-12-27 06:45:50
-tags: bot, routes, location
+tags: [bot, routes, location]
 ---
 ##### Like Elon Musk, I hate traffic jams.
 
