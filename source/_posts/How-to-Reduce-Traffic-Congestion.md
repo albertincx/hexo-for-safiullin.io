@@ -8,6 +8,8 @@ tags: bot, routes, location
 We are looking for ways to eliminate them.
 2018 year. Saint-Petersburg. Murino. Frosty morning. I am standing at the bus stop. Cars drive slowly towards the fork.
 
+<!-- more -->
+
 Overcrowded buses drive up, and I watch people at the bus stop not being able to get on the bus.
 I watch further, for cars leaving from different residential complexes. One went empty, the second empty. These empty boxes travel to one point every day and form a traffic jam.
 

@@ -8,6 +8,8 @@ tags: telegram-bot, bot, reading
 
 Let's say you have a site that people visit. But how to quickly contact you and so that they receive an answer instantly?
 
+<!-- more -->
+
 Technology will help us here.
 The recipe is simple:
 Fast messenger - for quick replies (Telegram)

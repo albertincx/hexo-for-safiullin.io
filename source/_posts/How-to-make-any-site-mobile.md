@@ -14,11 +14,13 @@ And of course they don't have time to make a mobile version, and some sites don'
 
 So how to fix this situation? I came up with an add-on for your mobile browser
 
+<!-- more -->
+
 ## The Solution
 
 [This is an extension](https://chrome.google.com/webstore/detail/make-mobile-view/ohfappdhdoofhbiajcdakoicdpfpkggn?hl=en&authuser=0)
 
-# How to use?
+## How to use?
 
 1. You need mobile browser with extensions support.
 2. Install it from Google Web store

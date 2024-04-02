@@ -1,10 +1,14 @@
-title: Safiullin.io
+title: Safiullin.io. Developer projects and stories of life
+nameSite: 'Safiullin.io'
 subtitle: 'Albert Safiullin`s Blog Apps, Games, Bots'
-description: 'Albert Safiullin Developer blog. Stories, apps, bots'
+description: 'Albert Safiullin`s Developer blog. Stories of life, Useful apps, useful bots. Make our world better with Information technologies'
 keywords: [developer, applications, games, telegram bots, programming articles]
 author: Albert Safiullin
-language: en
+language:
+  - en
+  - ru
 timezone: UTC
+canonical: true
 
 url: https://safiullin.io
 root: /
@@ -15,13 +19,13 @@ new_post_name: :title.md # File name of new posts
 post_asset_folder: true
 per_page: 10
 pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+  trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: false # Set to false to remove trailing '.html' from permalinks
 
 theme: landscape-local
 
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace: ''
@@ -76,7 +80,6 @@ time_format: HH:mm:ss
 updated_option: 'mtime'
 
 pagination_dir: page
-disqus_shortname: 'safiullin-io'
 
 ignore:
 deploy:

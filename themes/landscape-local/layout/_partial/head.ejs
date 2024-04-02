@@ -39,4 +39,7 @@ title = __('tag') + ': ' + page.tag;
 <% if (theme.links) {%>
 <%- css('https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css') %>
 <% } %>
+<% if (config.canonical) { %>
+    <link rel="canonical" href="<%= page.permalink %>" />
+<% } %>
 </head>
